@@ -1,0 +1,16 @@
+PODS:
+  - YBNimbus (0.1.0)
+
+DEPENDENCIES:
+  - YBNimbus (from `../`)
+
+EXTERNAL SOURCES:
+  YBNimbus:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YBNimbus: ef9f5b560253d98c179365a79ecdff8ff035b3c7
+
+PODFILE CHECKSUM: 7ea932f8c743a6a56e1bbfccabd67056e4129aa4
+
+COCOAPODS: 1.6.1

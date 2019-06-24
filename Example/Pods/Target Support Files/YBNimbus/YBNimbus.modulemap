@@ -1,0 +1,6 @@
+framework module YBNimbus {
+  umbrella header "YBNimbus-umbrella.h"
+
+  export *
+  module * { export * }
+}
